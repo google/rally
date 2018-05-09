@@ -1,0 +1,89 @@
+<!--
+  ~ Copyright 2018 Google LLC
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~    https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/background_medium</item>
+        <item name="colorPrimaryDark">@color/background_dark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/background_medium</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="AppTheme.Splash">
+        <item name="android:windowBackground">@drawable/splash</item>
+    </style>
+
+    <style name="CondensedBase" parent="AppTheme">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+
+    <style name="Subtitle1" parent="CondensedBase">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0.035625</item>
+    </style>
+
+    <style name="Subtitle2" parent="CondensedBase">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0.035</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+    </style>
+
+    <style name="Body2" parent="CondensedBase">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0.1875</item>
+        <item name="android:fontFamily">sans-serif-condensed-light</item>
+    </style>
+
+    <style name="Caption" parent="Subtitle2">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="Button" parent="CondensedBase">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0.2</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textStyle">bold</item>
+        <item name="textAllCaps">true</item>
+    </style>
+
+    <style name="BodyTight" parent="Body2">
+        <item name="android:letterSpacing">0.0625</item>
+    </style>
+
+    <style name="EczarBase" parent="AppTheme">
+        <item name="android:fontFamily">@font/eczar</item>
+    </style>
+
+    <style name="H3Heading" parent="EczarBase">
+        <item name="android:letterSpacing">0.0357</item>
+        <item name="android:textSize">44sp</item>
+        <item name="android:fontWeight">600</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="FadedH3Heading" parent="H3Heading">
+        <item name="android:alpha">0.2</item>
+    </style>
+
+    <style name="Body1" parent="EczarBase">
+        <item name="android:textSize">18sp</item>
+        <item name="android:letterSpacing">0.16</item>
+    </style>
+
+</resources>

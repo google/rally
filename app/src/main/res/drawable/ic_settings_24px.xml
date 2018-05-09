@@ -1,0 +1,27 @@
+<!--
+  ~ Copyright 2018 Google LLC
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~    https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="24dp"
+        android:height="24dp"
+        android:viewportHeight="24.0"
+        android:viewportWidth="24.0">
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="nonZero"
+        android:pathData="M18.443,12.882C18.479,12.594 18.506,12.306 18.506,12C18.506,11.694 18.479,11.406 18.443,11.118L20.342,9.633C20.513,9.498 20.558,9.255 20.45,9.057L18.65,5.943C18.542,5.745 18.299,5.673 18.101,5.745L15.86,6.645C15.392,6.285 14.888,5.988 14.339,5.763L13.997,3.378C13.97,3.162 13.781,3 13.556,3L9.956,3C9.731,3 9.542,3.162 9.515,3.378L9.173,5.763C8.624,5.988 8.12,6.294 7.652,6.645L5.411,5.745C5.204,5.664 4.97,5.745 4.862,5.943L3.062,9.057C2.945,9.255 2.999,9.498 3.17,9.633L5.069,11.118C5.033,11.406 5.006,11.703 5.006,12C5.006,12.297 5.033,12.594 5.069,12.882L3.17,14.367C2.999,14.502 2.954,14.745 3.062,14.943L4.862,18.057C4.97,18.255 5.213,18.327 5.411,18.255L7.652,17.355C8.12,17.715 8.624,18.012 9.173,18.237L9.515,20.622C9.542,20.838 9.731,21 9.956,21L13.556,21C13.781,21 13.97,20.838 13.997,20.622L14.339,18.237C14.888,18.012 15.392,17.706 15.86,17.355L18.101,18.255C18.308,18.336 18.542,18.255 18.65,18.057L20.45,14.943C20.558,14.745 20.513,14.502 20.342,14.367L18.443,12.882ZM11.756,15.15C10.019,15.15 8.606,13.737 8.606,12C8.606,10.263 10.019,8.85 11.756,8.85C13.493,8.85 14.906,10.263 14.906,12C14.906,13.737 13.493,15.15 11.756,15.15Z"
+        android:strokeColor="#00000000"
+        android:strokeWidth="1"/>
+</vector>

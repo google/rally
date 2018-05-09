@@ -1,0 +1,73 @@
+<!--
+  ~ Copyright 2018 Google LLC
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~    https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:aapt="http://schemas.android.com/aapt"
+        android:width="160dp"
+        android:height="160dp"
+        android:viewportHeight="160.0"
+        android:viewportWidth="160.0">
+    <path
+        android:fillColor="#005D57"
+        android:fillType="evenOdd"
+        android:pathData="M39.92,79.61C39.92,57.55 57.81,39.66 79.87,39.66L79.87,3.72C37.95,3.72 3.97,37.69 3.97,79.61L39.92,79.61Z"
+        android:strokeColor="#00000000"
+        android:strokeWidth="1"/>
+    <path
+        android:fillColor="#007D51"
+        android:fillType="evenOdd"
+        android:pathData="M39.92,79.61L3.97,79.61C3.97,121.52 37.95,155.5 79.87,155.5L79.87,119.55C57.81,119.55 39.92,101.67 39.92,79.61"
+        android:strokeColor="#00000000"
+        android:strokeWidth="1"/>
+    <path
+        android:fillColor="#37EFBA"
+        android:fillType="evenOdd"
+        android:pathData="M155.76,79.61L119.81,79.61C119.81,101.67 101.93,119.55 79.87,119.55L79.87,155.5C121.78,155.5 155.76,121.52 155.76,79.61"
+        android:strokeColor="#00000000"
+        android:strokeWidth="1"/>
+    <path
+        android:fillAlpha="0.08"
+        android:fillType="evenOdd"
+        android:pathData="M118.99,78.05l42.89,0l0,50.68l-11.7,0z"
+        android:strokeAlpha="0.08"
+        android:strokeColor="#00000000"
+        android:strokeWidth="1">
+        <aapt:attr name="android:fillColor">
+            <gradient
+
+                android:endX="134.0999759051938"
+                android:endY="82.37820254747557"
+                android:startX="142.56010283138195"
+                android:startY="111.91923941883141"
+                android:type="linear">
+                <item
+                    android:color="#00000000"
+                    android:offset="0.0"/>
+                <item
+                    android:color="#DB000000"
+                    android:offset="0.8593185"/>
+                <item
+                    android:color="#FF000000"
+                    android:offset="1.0"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path
+        android:fillColor="#1EB980"
+        android:fillType="evenOdd"
+        android:pathData="M119.81,79.61L155.76,79.61L155.76,19.69C155.76,10.87 148.61,3.72 139.78,3.72L79.87,3.72L79.87,39.66C101.93,39.66 119.81,57.55 119.81,79.61"
+        android:strokeColor="#00000000"
+        android:strokeWidth="1"/>
+</vector>
